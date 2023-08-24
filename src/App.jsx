@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       <Routes>
-        <Route path="/Employee-Dashboard" element={<HomePage />} />
+        <Route path="/" element={<HomePage />} />
         <Route path="/employee/:id" element={<EmployeePage />} />
       </Routes>
     </>
