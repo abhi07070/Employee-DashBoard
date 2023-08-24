@@ -1,6 +1,6 @@
 {
-  "name": "employee-dashboard",
   "homepage": "https://abhi07070.github.io/Employee-Dashboard",
+  "name": "employee-dashboard",
   "private": true,
   "version": "0.0.0",
   "type": "module",
